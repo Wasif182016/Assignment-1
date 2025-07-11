@@ -199,3 +199,29 @@ header{
     color: black;
     font-family: "Inter";
 }
+.footer-1{
+    text-align: center;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-bottom: 100px;
+    padding-top: 0px;
+} 
+.footer-2{
+    color: #4747FF;
+    font-family: "Inter";
+    size:600%;
+}
+.footer-3{
+    color: #8987A1;
+}
+.footer-4{
+    color: #8987A1;
+    display: flex;
+    max-width: 400px;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+.footer-4 a{
+    text-decoration: none;
+    color: #8987A1;
+}
