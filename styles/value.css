@@ -18,6 +18,7 @@ nav{
 }
 header{
     background-image: url(/Assets/Hero-bg.png);
+   
 }
 .hover-button{
     background-color: #4747FF; 
@@ -34,4 +35,27 @@ header{
 .banner-description{
     text-align: center;
     font-family: "Raleway";
+}
+.action{
+    height: auto;
+    width: auto;
+    margin:20px 200px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.action-content{
+    text-align: left;
+}
+.action-img{
+    align-content:end;
+}
+.action-1{
+    font-family: "Raleway";
+    
+    
+}
+.action-2{
+    font-family: "Raleway";
+    
 }
