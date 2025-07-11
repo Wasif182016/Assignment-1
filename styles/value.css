@@ -90,3 +90,33 @@ header{
     color: black;
     font-family: "Inter";
 }
+.user-0{
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 50px;
+}
+.user-1{
+    font-family: "Raleway";
+    text-align: center;
+}
+.user-2{
+    display: flex;
+    justify-content: space-between;
+    flex: 5px;
+    
+}
+.user-3{
+    background-color: whitesmoke;
+    padding: 10px;
+    padding-right: 5px;
+}
+.user-4{
+    display: flex;
+    gap: 5px;
+}
+.user-5{
+    color: gray;
+}
+.user-6{
+    color: lightgray;
+}
