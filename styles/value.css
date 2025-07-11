@@ -120,3 +120,25 @@ header{
 .user-6{
     color: lightgray;
 }
+.focus-1{
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 50px;
+}
+.focus-2{
+    text-align: center;
+}
+.focus-3{
+    text-align: center;
+    color: grey;
+}
+.focus-4{
+    text-align: center;
+}
+.focus-5{
+    text-align: center;
+    
+}
+.rounded-image{
+    border-radius: 30px;
+}
