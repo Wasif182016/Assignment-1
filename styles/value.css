@@ -1,0 +1,37 @@
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 50px 200px;
+    
+}
+.color{
+    color: #4E47FF;
+    
+}
+.inter{
+    font-family: "Inter";
+     font-optical-sizing: auto;
+     font-style: normal;
+     font-size: 99px 51px;
+
+}
+header{
+    background-image: url(/Assets/Hero-bg.png);
+}
+.hover-button{
+    background-color: #4747FF; 
+    color: white;
+    cursor: pointer;
+    transition: all;
+}
+.hover-button:hover{
+    background-color: black;  
+}
+.banner-content{
+    text-align: center;
+}
+.banner-description{
+    text-align: center;
+    font-family: "Raleway";
+}
